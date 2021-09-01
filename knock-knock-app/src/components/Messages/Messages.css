@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.message-window {
+    border: 1px solid #1F4E5F;
+    border-radius: 12px;
+    box-sizing: border-box;
+    background-color: #F4F7F7;
+    height: 69vh;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+}

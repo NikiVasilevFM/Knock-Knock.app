@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.start-wrapper {
+    width: 100%;
+    height: 80vh;
+    margin: auto;
+    background-color: #F4F7F7;
+    /* background-color: darkgreen; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-form {
+    border: 1px solid #AACFD0;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: #AACFD0;
+    height: 400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 300px;
+}
+
+.start-text {
+    color: #F4F7F7;
+    margin-left: 80px;
+    margin-top: 90px;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.start-button {
+    width: 80%;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 55px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.or-text {
+    margin-left: 109px;
+    margin: auto;
+}
